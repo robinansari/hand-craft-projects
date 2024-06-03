@@ -1,0 +1,123 @@
+[
+    {
+      "img": "https://i.ibb.co/6Z7hktZ/panjabi3.jpg",
+      "title": "Product A",
+      "brand": "Brand X",
+      "price": 19.99,
+      "quality": "Standard",
+      "description": "A basic yet reliable product."
+    },
+    {
+      "img": "https://i.ibb.co/rHJQYD9/panjabi2.jpg",
+      "title": "Product B",
+      "brand": "Brand Y",
+      "price": 29.99,
+      "quality": "Premium",
+      "description": "High-quality materials for superior performance."
+    },
+    {
+      "img": "https://i.ibb.co/RzxgLZv/panjabi1.jpg",
+      "title": "Product C",
+      "brand": "Brand Z",
+      "price": 39.99,
+      "quality": "Standard",
+      "description": "A reliable product with good value for money."
+    },
+    {
+      "img": "https://i.ibb.co/6RSkj64/katha11.webp",
+      "title": "Product D",
+      "brand": "Brand X",
+      "price": 49.99,
+      "quality": "Premium",
+      "description": "Top-notch quality for discerning customers."
+    },
+    {
+      "img": "https://i.ibb.co/BZJXS1g/katha10.jpg",
+      "title": "Product E",
+      "brand": "Brand Y",
+      "price": 59.99,
+      "quality": "Standard",
+      "description": "A solid product at an affordable price."
+    },
+    {
+      "img": "https://i.ibb.co/JxW5Wyn/katha9.jpg",
+      "title": "Product F",
+      "brand": "Brand Z",
+      "price": 69.99,
+      "quality": "Premium",
+      "description": "Luxury and durability combined in one product."
+    },
+    {
+      "img": "https://i.ibb.co/Rj9ZvQL/katha8.jpg",
+      "title": "Product G",
+      "brand": "Brand X",
+      "price": 79.99,
+      "quality": "Standard",
+      "description": "A dependable choice for everyday use."
+    },
+    {
+      "img": "https://i.ibb.co/dgB9J4m/katha7.jpg",
+      "title": "Product H",
+      "brand": "Brand Y",
+      "price": 89.99,
+      "quality": "Premium",
+      "description": "Exquisite craftsmanship meets functionality."
+    },
+    {
+      "img": "https://i.ibb.co/R9qRMCf/katha6.jpg",
+      "title": "Product I",
+      "brand": "Brand Z",
+      "price": 99.99,
+      "quality": "Standard",
+      "description": "A solid performer for everyday tasks."
+    },
+    {
+      "img": "https://i.ibb.co/cYzffq1/katha5.jpg",
+      "title": "Product J",
+      "brand": "Brand X",
+      "price": 109.99,
+      "quality": "Premium",
+      "description": "Elevate your experience with this premium product."
+    },
+    {
+      "img": "https://i.ibb.co/Js9m1yx/katha4.jpg",
+      "title": "Product K",
+      "brand": "Brand Y",
+      "price": 119.99,
+      "quality": "Standard",
+      "description": "Reliable performance at an affordable price point."
+    },
+    {
+      "img": "https://i.ibb.co/wy2Z8zM/katha3.jpg",
+      "title": "Product L",
+      "brand": "Brand Z",
+      "price": 129.99,
+      "quality": "Premium",
+      "description": "Indulge in luxury with this high-end product."
+    },
+    {
+      "img": "https://i.ibb.co/VSfsS87/katha2.jpg",
+      "title": "Product M",
+      "brand": "Brand X",
+      "price": 139.99,
+      "quality": "Standard",
+      "description": "Dependable performance for everyday tasks."
+    },
+    {
+      "img": "https://i.ibb.co/YXHJ0Rm/katha-1.jpg",
+      "title": "Product N",
+      "brand": "Brand Y",
+      "price": 149.99,
+      "quality": "Premium",
+      "description": "Unmatched quality and style in one package."
+    },
+    {
+      "img": "https://i.ibb.co/Js9m1yx/katha4.jpg",
+      "title": "Product O",
+      "brand": "Brand Z",
+      "price": 159.99,
+      "quality": "Standard",
+      "description": "A reliable choice for everyday use."
+    }
+  ]
+  
